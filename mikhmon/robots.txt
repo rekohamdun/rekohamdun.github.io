@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /*?
+Allow: /?mikhmon
+Allow: /?mikhmon/v3
+Allow: /?mikhmon/v3/download
+Allow: /?mikhmon/v3/tutorial
+Disallow /md/*.md$
+Disallow /printBT.html
+Disallow /iklan.html
+Disallow /*.txt$
+Disallow /printBT.html
+Disallow /assets/json/*.json$
